@@ -1,17 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:24.047227
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:10
 #+TITLE: 佛在金棺上囑累經
 #+PROPERTY: CBETA_ID W04n0043a
 #+PROPERTY: ID KR6v0054
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 04, No. 043a
 #+PROPERTY: VOL 04
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0054_W_001-0373a> 
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 如來在金棺囑累清淨莊嚴敬福經¶
 整理者　侯旭東¶
 ¶
 
@@ -93,9 +93,8 @@
 的拓本，整理過程中方廣錩先生多方幫助，謹此致謝。¶
 ¶
 
-錄文一：佛在金棺上囑累經¶
-
- 佛在金棺上囑累經¶
+* 〔錄文一〕¶
+佛在金棺上囑累經¶
 
 如是我聞：一時佛在拘屍那城裟羅雙樹間說涅¶
 槃訖竟，垂入金棺，欲焚其身，偏坐金棺楯上，雙目出¶
